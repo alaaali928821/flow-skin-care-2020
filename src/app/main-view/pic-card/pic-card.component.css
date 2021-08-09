@@ -1,0 +1,24 @@
+
+.card-contanier{
+    width: 277px;
+    padding: 10px;
+    background-color: #F9F9F9;
+    margin-bottom: 15px;
+}
+.img-desc-contanier{
+    margin-top: 8px;
+}
+.card-contanier-img{
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    filter:saturate(2);
+}
+
+.img-desc{
+    font-family: 'robotoregular';
+    font-size: 16px;
+    color: black;
+    margin-top: 5px;
+}
+

@@ -1,0 +1,38 @@
+
+.main-view-text{
+    font-family: 'robotothin';
+    max-width: 529px;
+    color: beige;
+    font-weight: 700;
+    line-height: 1;
+    box-sizing: border-box;
+    padding-bottom: 32px;
+    font-size: 25px;
+}
+
+#main-text{
+    font-size: 60px;
+    margin-top: 80px;
+    letter-spacing: -2px;
+}
+
+#sub-text{
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+#one-word{
+    color: #CDF0EA;
+}
+#follow-word{
+    color: #8B52A1;
+}
+#main-view-button-bottom{
+    width: 186px;
+    height: 60px;
+    background-color: beige;
+    border-radius: 4px;
+    padding: 16px;
+    display: flex;
+    justify-content: space-evenly;
+}
