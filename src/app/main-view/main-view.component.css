@@ -1,0 +1,23 @@
+#main-view-backgound {
+    background-color: #8B52A1;
+    height: 100vh;
+}
+
+.algin-view{
+    margin: 0 8% 0 8%;
+}
+
+#main-text{
+    font-family: 'robotothin';
+    max-width: 948px;
+    color: beige;
+    letter-spacing: -2px;
+    font-size: 60px;
+    font-family: gt;
+    font-weight: 700;
+    line-height: 1;
+    padding-bottom: 32px;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+}
